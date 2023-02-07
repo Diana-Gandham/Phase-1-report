@@ -1,4 +1,4 @@
-
+Major Project
 
 This is a project report on "Detection of Cyberbullying on Social Media Using Machine Learning Approach in Python".
 
